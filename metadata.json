@@ -1,0 +1,8 @@
+{
+  "name": "2D Platformer",
+  "description": "A modular 2D platformer game engine and development starter kit featuring custom physics, tilemaps, parallax backgrounds, enemy AI, particle systems, level editor, and debug tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
